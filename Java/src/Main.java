@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 public class Main {
-
+//Ex 1 ///////////////// ///////////////////// ////////////////// 
 //    public static void main(String[] args) {
 ////        Scanner scanner = new Scanner(System.in);
 ////
@@ -19,7 +19,7 @@ public class Main {
 ////        scanner.close();
 //    }
 
-
+//Ex 2 ///////////////// ///////////////////// ////////////////// 
 //    public static void main (String[] args){
 //        Scanner scanner = new Scanner(System.in);
 //
@@ -76,7 +76,7 @@ public class Main {
 //}
 //
 
-
+//Ex 3 ///////////////// ///////////////////// ////////////////// 
 //    public static void main(String[] args) {
 //
 //        int[] myNum = {1, 2, 3, 4, -2, 4, -4, -56, 23};
@@ -105,7 +105,9 @@ public class Main {
 //    }
 
 //
-//
+////Ex 4  ///////////////// ///////////////////// ////////////////// 
+
+  
 //        public static void main(String[] args) {
 //            Scanner scanner = new Scanner(System.in);
 //
@@ -134,7 +136,7 @@ public class Main {
 //        }
 //    }
 
-
+//Ex 5 ///////////////// ///////////////////// ////////////////// 
 //
 //    public static void main (String[] args){
 //    Scanner scanner = new Scanner(System.in);
@@ -159,6 +161,7 @@ public class Main {
 //        }
 //    }
 
+  //Ex 6 ///////////////// ///////////////////// ////////////////// 
 //public static void main(String[] args){
 // Scanner scanner = new Scanner(System.in);
 // int sum = 0;
@@ -180,6 +183,8 @@ public class Main {
 //    scanner.close();
 //}
 //}
+
+  //Ex 8 ///////////////// ///////////////////// ////////////////// 
 //public static void main (String[] args) {
 //    int times = 10;
 //    System.out.println("0");
@@ -198,7 +203,7 @@ public class Main {
 //    }
 //}
 
-
+//Ex 9 ///////////////// ///////////////////// ////////////////// 
 //public static void main (String[]args){
 //  int[] arr ={1,2,3,4,5,6,7,8,9,0,11,12,32,24,15,16,26};
 //  for(int i:arr){
@@ -211,6 +216,8 @@ public class Main {
 //  }
 //}
 ////}
+
+  //Ex 10 ///////////////// ///////////////////// ////////////////// 
 //    public static void main(String[] args) {
 //        StringBuilder options = new StringBuilder("Option 1\nOption 1\nOption 3\nEXIT 4");
 //        Scanner scanner = new Scanner(System.in);
@@ -245,6 +252,7 @@ public class Main {
 //    }
 //}
 //
+  //Ex 12 ///////////////// ///////////////////// ////////////////// 
 //    public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
 //        int sum = 0;
@@ -266,6 +274,7 @@ public class Main {
 //    }
 //}
 //
+  // Missing ex : 7 11 13
 
 
 
